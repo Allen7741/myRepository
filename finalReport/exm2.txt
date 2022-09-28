@@ -1,0 +1,117 @@
+//lessons.json 的格式
+{
+  "Title": "",
+  "Name": "",
+  "Address": "",
+  "Info": "",
+  "Sun": "",
+  "Mon": "",
+  "Tue": "",
+  "Wed": "",
+  "Thu": "",
+  "Fri": "",
+  "Sat": "",
+  "Price": "",
+  "Img": [
+    "./img/fitness00.jpg"
+  ],
+  "Stype": [
+    "",
+    ""
+  ]
+}
+
+{
+  "Lid":"",
+  "Title": "",
+  "Cid":"",
+  "Name": "",
+  "Address": "",
+  "Info": "",
+  "Sun": "",
+  "Mon": "", 
+  "Tue": "", 
+  "Wed": "", 
+  "Thu": "", 
+  "Fri": "", 
+  "Sat": "", 
+  "Price": "", 
+  "Pricepertime":"", 
+  "TimeLength":"", 
+  "Img1": "./img/fitness00.jpg", 
+  "Img2": "./img/fitness00.jpg",
+  "Img3": "./img/fitness00.jpg",
+  "Mode": "./img/fitness00.jpg", 
+  "Stype": " ; ; ; ", 
+},
+
+
+//place.json的格式
+{
+  "Title": "",
+  "Host": "",
+  "Address": "",
+  "Info": "",
+  "Sun": "",
+  "Mon": "",
+  "Tue": "",
+  "Wed": "",
+  "Thu": "",
+  "Fri": "",
+  "Sat": "",
+  "Price": "",
+  "Img": [
+    "./img/space00.jpg"
+  ],
+  "Stype": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+
+{
+  "Pid":"",
+  "Title": "", 
+  "Cid":"", 
+  "Host": "", 
+  "Address": "", 
+  "Info":"", 
+  "Sun": "", 
+  "Mon": "", 
+  "Tue": "", 
+  "Wed": "", 
+  "Thu": "", 
+  "Fri": "", 
+  "Sat": "", 
+  "Price": "", 
+  "Pricepertime":"", 
+  "TimeLength":"", 
+  "Limit":"",
+  "Img1": "./img/space00.jpg"
+  "Img2": "./img/space00.jp",
+  "Img3": "./img/space00.jp",
+  "Stype": " ; ; ; ", 
+},
+
+//register.json的格式
+,{
+  "Id":"",
+  "Realname":"王大明 林小美",
+  "Nickname":"",
+  "Account":"Account",
+  "Password":"012345678",
+  "Email":"@email.com",
+  "Phone":"0987654321",
+  "Gender":"MF"
+}
+
+Id,
+Realname,
+Nickname,
+Account,
+Password,
+Email,
+Phone,
+Gender

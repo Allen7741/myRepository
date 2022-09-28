@@ -1,0 +1,62 @@
+  a:link {
+    text-decoration: none;
+    color: white;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  .mybtn {
+    background-color: gray;
+    border: 0;
+    border-radius: 3px;
+    color: white;
+  }
+
+  table {
+    border-collapse: separate;
+    border-spacing: 2px;
+  }
+
+  th {
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+box-shadow: 2px 2px #888888;
+  }
+
+  table,
+  tr {
+    border: 2px solid white;
+  }
+
+  .float {
+    margin: 0px;
+    height: 150px;
+    width: 138px;
+  }
+
+  .float>li {
+    box-sizing: border-box;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: -4px;
+    text-align: center;
+    list-style: none;
+
+  }
+
+  .thXX {
+    background-color: #EEEEEE;
+  }
+
+   .thOnClick {
+    background-color: black;
+    color: white;
+  }
+  .erro{
+    color:red;
+  }
